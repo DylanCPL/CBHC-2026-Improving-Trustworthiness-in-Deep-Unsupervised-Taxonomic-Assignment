@@ -12,3 +12,4 @@ Additional information for the poster presentation "Improving Trustworthiness in
 [7] W. L. Applequist. A brief review of recent controversies in the taxonomy and nomenclature of sambucus nigra sensu lato. Acta Hortic., no. 1061, pp. 25–33, Jan. 2015, doi: 10.17660/ActaHortic.2015.1061.1. <br>
 [8] P. Millan Arias, K. A. Hill, and L. Kari. iDeLUCS: a deep learning interactive tool for alignment-free clustering of DNA sequences. Bioinformatics, vol. 39, no. 9, p. btad508, Sep. 2023, doi: 10.1093/bioinformatics/btad508. <br>
 [9] S. Solis-Reyes, M. Avino, A. Poon, and L. Kari. An open-source k-mer based machine learning tool for fast accurate subtyping of HIV-1 genomes. PLoS ONE, 13(11):e0206409, 2018.
+https://www.criver.com/lab-mice?region=24
